@@ -4,3 +4,4 @@ AGIL-RESOLUSI
 - Membaca buku kategori keilmuan
 - Sering belajar dan memperdalam ilmu programming
 - Belajar C++
+- Belajar SQL
