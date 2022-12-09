@@ -3,3 +3,4 @@ AGIL-RESOLUSI
 - Konsisten belajar bahasa inggris setiap hari
 - Membaca buku kategori keilmuan
 - Sering belajar dan memperdalam ilmu programming
+- Belajar C++
